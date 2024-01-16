@@ -1,0 +1,33 @@
+.clock {
+  margin-left: 20px;
+  padding: 40px;
+  background-color: darkorange;
+  border-radius: 50%;
+  color: white;
+}
+
+.timer {
+  padding-left: 20px;
+  color: white;
+  margin-top: 20px;
+  
+}
+
+.timer1 {
+  background-color: deeppink;
+  padding: 5px 20px;
+  border-radius: 5px;
+}
+
+.timer2 {
+  background-color: red;
+  padding: 5px 20px;
+  border-radius: 5px;
+  margin: 20px 0;
+}
+
+.timer3 {
+  background-color: lime;
+  padding: 5px 20px;
+  border-radius: 5px;
+}
